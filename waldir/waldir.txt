@@ -1,1 +1,5 @@
-lolis "te va a caer la ley"
+<<<<<<< HEAD
+lolis "te va a caer la ley"....
+=======
+lolis por siempre :v amen
+>>>>>>> 2513f3089f866c303f22f275352630c25bda73a1
